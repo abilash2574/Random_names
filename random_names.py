@@ -2,7 +2,7 @@ import random
 import sys
 
 first_name = ("Paul", "Dick", "Chris", "Moe", "Dickie", "Faartz", "Kash", "Lord", "Hardick")
-last_name = ("","","","","Kock","Raper","Black","Register","Brain","Head","Lester","Litoris","Twocock","Perv","Mussolini","Long")
+last_name = ("Kock","Raper","Black","Register","Brain","Head","Lester","Litoris","Twocock","Perv","Mussolini","Long")
 
 while(True):
     temp1 = random.choice(first_name)
